@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/provider-calculator-test-task/static/css/main.181321ee.css",
+    "main.js": "/provider-calculator-test-task/static/js/main.11b1b4f8.js",
+    "index.html": "/provider-calculator-test-task/index.html",
+    "main.181321ee.css.map": "/provider-calculator-test-task/static/css/main.181321ee.css.map",
+    "main.11b1b4f8.js.map": "/provider-calculator-test-task/static/js/main.11b1b4f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.181321ee.css",
+    "static/js/main.11b1b4f8.js"
+  ]
+}
