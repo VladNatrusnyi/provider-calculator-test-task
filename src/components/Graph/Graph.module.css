@@ -1,0 +1,27 @@
+.graphSection {
+    width: 100%;
+}
+
+.graphWrapper {
+    display: flex;
+    flex-direction: column;
+}
+
+.radioGroup {
+    width: 150px;
+    font-size: 12px!important;
+}
+
+@media screen and (max-width: 600px) {
+    .graphSection {
+        height: 300px;
+    }
+    .graphWrapper {
+        flex-direction: row;
+    }
+    .radioGroup {
+        width: 50px;
+        font-size: 12px!important;
+    }
+}
+
